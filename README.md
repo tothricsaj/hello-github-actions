@@ -6,6 +6,7 @@
 -->
 
 # Hello GitHub Actions :rocket:
+:smile: :bus:
 
 _Create a GitHub Action and use it in a workflow._
 
